@@ -1,0 +1,6 @@
+import cn.hutool.core.io.watch.WatchUtil;
+public class FunctionUse2609 {
+public void funcUse() {
+WatchUtil watchutil = new WatchUtil();
+}
+}
